@@ -45,7 +45,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BulletScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyCollisionInteractions.cs" />
+     <Compile Include="Assets\Scripts\GameControler.cs" />
      <Compile Include="Assets\Scripts\ShooterScript.cs" />
+     <Compile Include="Assets\Scripts\SpawnEnemies.cs" />
      <Compile Include="Assets\Scripts\Wander.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
