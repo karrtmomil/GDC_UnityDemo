@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class EnemyCollisionInteractions : MonoBehaviour {
-	
+	[System.NonSerialized]
 	public GameObject gameControler = null; 
 	public int EnemyWorthPoints = 5;
 	// Use this for initialization
